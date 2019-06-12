@@ -1463,6 +1463,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-rtcfTlv2dK {
+  background: #cccccc;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+.cid-rtcfTlv2dK .image-block {
+  margin: auto;
+}
+.cid-rtcfTlv2dK figcaption {
+  position: relative;
+}
+.cid-rtcfTlv2dK figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rtcfTlv2dK .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rmjETSpYjE {
   padding-top: 60px;
   padding-bottom: 15px;
