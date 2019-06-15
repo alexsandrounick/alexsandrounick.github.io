@@ -1396,7 +1396,7 @@ body {
 .cid-rmjuS9Da9a {
   background: #cccccc;
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
 }
 .cid-rmjuS9Da9a .image-block {
   margin: auto;
@@ -1426,12 +1426,12 @@ body {
   color: #760c0c;
 }
 .cid-rmjC4CzeEI B {
-  color: #760c0c;
+  color: #073b4c;
 }
 .cid-rmjCAehvyu {
   padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
 .cid-rmjCAehvyu .mbr-section-subtitle {
   color: #767676;
@@ -1442,24 +1442,45 @@ body {
 .cid-rmjCAehvyu B {
   color: #000000;
 }
-.cid-rtd0qw3cRT {
-  background: #cccccc;
+.cid-rmjCcIRlgA {
+  background: #c1c1c1;
   padding-top: 0px;
   padding-bottom: 0px;
 }
-.cid-rtd0qw3cRT .image-block {
+.cid-rmjCcIRlgA .image-block {
   margin: auto;
 }
-.cid-rtd0qw3cRT figcaption {
+.cid-rmjCcIRlgA figcaption {
   position: relative;
 }
-.cid-rtd0qw3cRT figcaption div {
+.cid-rmjCcIRlgA figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rtd0qw3cRT .image-block {
+  .cid-rmjCcIRlgA .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rtcfTlv2dK {
+  background: #cccccc;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+.cid-rtcfTlv2dK .image-block {
+  margin: auto;
+}
+.cid-rtcfTlv2dK figcaption {
+  position: relative;
+}
+.cid-rtcfTlv2dK figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rtcfTlv2dK .image-block {
     width: 100% !important;
   }
 }
@@ -1575,27 +1596,6 @@ body {
 }
 .cid-rmjLvlgyU4 P {
   color: #767676;
-}
-.cid-rmjCcIRlgA {
-  background: #c1c1c1;
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-.cid-rmjCcIRlgA .image-block {
-  margin: auto;
-}
-.cid-rmjCcIRlgA figcaption {
-  position: relative;
-}
-.cid-rmjCcIRlgA figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rmjCcIRlgA .image-block {
-    width: 100% !important;
-  }
 }
 .cid-rmP2vakTAG {
   padding-top: 60px;
@@ -1722,27 +1722,6 @@ body {
 }
 .cid-rmP6Fhv117 .mbr-section-subtitle {
   color: #767676;
-}
-.cid-rtcdpIId4r {
-  background: #cccccc;
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-.cid-rtcdpIId4r .image-block {
-  margin: auto;
-}
-.cid-rtcdpIId4r figcaption {
-  position: relative;
-}
-.cid-rtcdpIId4r figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rtcdpIId4r .image-block {
-    width: 100% !important;
-  }
 }
 .cid-rmP6VFxE6p {
   padding-top: 60px;
